@@ -1,7 +1,7 @@
 # Week 1 Performance Assessment - User Input Validation & Display
 
 **Course:** SDC342  
-**Author:** [Your Name]  
+**Author:** [TODD UPSHAW]  
 **Project Folder:** `YourLastName_Wk1PA`  
 
 ---
